@@ -1,0 +1,80 @@
+class AppString {
+  static const String AMO = "AMO";
+  static const String CUSTOMER = "Customer";
+  static const String PROVIDER = "Provider";
+  static const String EMAIL = "email";
+  static const String OR = "or";
+  static const String USER = "user";
+  static const String NAME = "name";
+  static const String USERNAME = "username";
+  static const String PASSWORD = "password";
+  static const String PLEASE = "Please";
+  static const String ENTER = "enter";
+  static const String YOUR = "your";
+  static const String CREATE = "Create";
+  static const String ACCOUNT = "Account";
+  static const String SERVICE = "Service";
+  static const String NEW = "new";
+  static const String FULL = "full";
+  static const String PHONE = "phone";
+  static const String NUMBER = "number";
+  static const String DRIVERS = "drivers";
+  static const String LICENCE = "licence";
+  static const String TRUCK = "truck";
+  static const String PLATE = "plate";
+  static const String SUCCESS = "Successfully";
+  static const String OOPS = "Oops";
+  static const String ADD = "Add";
+
+
+  static const String PLZ_ENTER_NAME = "please enter your name";
+  static const String PLZ_ENTER_EMAIL = "please enter your email";
+  static const String PLZ_ENTER_EMAILORNAME = "please enter your email or user name";
+  static const String PLZ_ENTER_PASS = "please enter your password";
+  static const String PLZ_ENTER_PHON_NUM = "please enter your phone number";
+  static const String PLZ_ENTER_DRIVE_LIC = "please enter your drivers licence";
+  static const String PLZ_ENTER_TRUCK_PL = "please enter your truck plate";
+  static const String NAME_GREATER_FIVE = "name must be greater then five character";
+  static const String PASS_GREATER_FIVE = "password must be greater then five character";
+  static const String CREATE_USER = "create your account";
+  static const String FORFOT_PASS = "forgot you password";
+  static const String OTP_SEND = "OTP has been sent";
+  static const String OTP_NOT_SEND = "OTP send failed";
+  static const String TWO_FACTOR_SEN = "Activate two-factor Authentication for your security";
+
+  // static const String AMO = "-";
+  // static const String CUSTOMER = "-";
+  // static const String PROVIDER = "-";
+  // static const String EMAIL = "-";
+  // static const String OR = "-";
+  // static const String USER = "-";
+  // static const String NAME = "-";
+  // static const String USERNAME = "-";
+  // static const String PASSWORD = "-";
+  // static const String PLEASE = "-";
+  // static const String ENTER = "-";
+  // static const String YOUR = "-";
+  // static const String CREATE = "-";
+  // static const String ACCOUNT = "-";
+  // static const String SERVICE = "-";
+  // static const String NEW = "-";
+  // static const String FULL = "-";
+  // static const String PHONE = "-";
+  // static const String NUMBER = "-";
+  // static const String DRIVERS = "-";
+  // static const String LICENCE = "-";
+  // static const String TRUCK = "-";
+  // static const String PLATE = "-";
+  //
+  //
+  // static const String PLZ_ENTER_NAME = "-";
+  // static const String PLZ_ENTER_EMAIL = "-";
+  // static const String PLZ_ENTER_EMAILORNAME = "-";
+  // static const String PLZ_ENTER_PASS = "-";
+  // static const String PLZ_ENTER_PHON_NUM = "-";
+  // static const String PLZ_ENTER_DRIVE_LIC = "-";
+  // static const String PLZ_ENTER_TRUCK_PL = "-";
+  // static const String NAME_GREATER_FIVE = "-";
+  // static const String CREATE_USER = "-";
+  // static const String FORFOT_PASS = "-";
+}
