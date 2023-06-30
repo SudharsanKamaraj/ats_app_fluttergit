@@ -564,9 +564,9 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                     fillColor: kSecondaryColor,
                     fontFamily: 'Averta-Bold',
                   ),
-                  SizedBox(
-                    height: size.height * 0.03,
-                  ),
+                  // SizedBox(
+                  //   height: size.height * 0.03,
+                  // ),
                 ],
               ),
             )
