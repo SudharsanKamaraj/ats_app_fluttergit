@@ -104,6 +104,13 @@ class _LoginPageState extends State<LoginPage> {
                           ),
                           borderRadius: BorderRadius.circular(10.0),
                         ),
+                        enabledBorder: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
                         hintText: "${AppString.EMAIL} ${AppString.OR} ${AppString.USERNAME}",
                         hintStyle: const TextStyle(
                           fontFamily: 'Averta-SemiBold',
@@ -164,6 +171,13 @@ class _LoginPageState extends State<LoginPage> {
                               )),
                         ),
                         border: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
+                        enabledBorder: OutlineInputBorder(
                           borderSide: const BorderSide(
                             width: 1,
                             color: Color(0xFFF5F5F5),

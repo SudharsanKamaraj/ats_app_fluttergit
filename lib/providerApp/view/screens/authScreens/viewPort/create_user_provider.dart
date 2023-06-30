@@ -134,6 +134,13 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                           ),
                           borderRadius: BorderRadius.circular(10.0),
                         ),
+                        enabledBorder: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
                         hintText: "${AppString.FULL} ${AppString.NAME}",
                         hintStyle: const TextStyle(
                           fontFamily: 'Averta-SemiBold',
@@ -180,6 +187,13 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                                 ),
                               ),
                         border: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
+                        enabledBorder: OutlineInputBorder(
                           borderSide: const BorderSide(
                             width: 1,
                             color: Color(0xFFF5F5F5),
@@ -252,6 +266,13 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                           ),
                           borderRadius: BorderRadius.circular(10.0),
                         ),
+                        enabledBorder: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
                         hintText: AppString.PASSWORD,
                         hintStyle: const TextStyle(
                           fontFamily: 'Averta-SemiBold',
@@ -299,6 +320,13 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                                 ),
                               ),
                         border: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
+                        enabledBorder: OutlineInputBorder(
                           borderSide: const BorderSide(
                             width: 1,
                             color: Color(0xFFF5F5F5),
@@ -357,6 +385,13 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                           ),
                           borderRadius: BorderRadius.circular(10.0),
                         ),
+                        enabledBorder: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
                         hintText: "${AppString.DRIVERS} ${AppString.LICENCE}",
                         hintStyle: const TextStyle(
                           fontFamily: 'Averta-SemiBold',
@@ -403,6 +438,13 @@ class _CreateUserProviderState extends State<CreateUserProvider> {
                                 ),
                               ),
                         border: OutlineInputBorder(
+                          borderSide: const BorderSide(
+                            width: 1,
+                            color: Color(0xFFF5F5F5),
+                          ),
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
+                        enabledBorder: OutlineInputBorder(
                           borderSide: const BorderSide(
                             width: 1,
                             color: Color(0xFFF5F5F5),
